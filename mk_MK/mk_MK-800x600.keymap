@@ -17,7 +17,7 @@
         {
             "comment": "no language, 123 for alpha",
             "type": 1,
-            "height" : 56,
+            "height": 56,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
@@ -185,383 +185,431 @@
         {
             "comment": "lowercase, three rows for alpha",
             "type": 16,
-            "width" : 76,
+            "width" : 69,
             "height" : 56,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
                 {
-                    "label": "q",
-                    "value": "q",
-                    "x" : 22,
-                    "y" : 7
+                    "label": "љ",
+                    "value": "љ",
+                    "x": 22,
+                    "y": 7
                 },
                 {
-                    "label": "w",
-                    "value": "w",
-                    "x" : 98,
-                    "y" : 7
-                },
-                {
-                    "hold" : 3,
-                    "label": "e",
-                    "value": "e",
-                    "x" : 173,
-                    "y" : 7
-                },
-                {
-                    "label": "r",
-                    "value": "r",
-                    "x" : 249,
-                    "y" : 7
-                },
-                {
-                    "label": "t",
-                    "value": "t",
-                    "x" : 325,
-                    "y" : 7
-                },
-                {
-                    "hold" : 9,
-                    "label": "y",
-                    "value": "y",
-                    "x" : 401,
-                    "y" : 7
-                },
-                {
-                    "hold" : 8,
-                    "label": "u",
-                    "value": "u",
-                    "x" : 477,
-                    "y" : 7
-                },
-                {
-                    "hold" : 4,
-                    "label": "i",
-                    "value": "i",
-                    "x" : 552,
-                    "y" : 7
-                },
-                {
-                    "hold" : 6,
-                    "label": "o",
-                    "value": "o",
-                    "x" : 628,
-                    "y" : 7
-                },
-                {
-                    "label": "p",
-                    "value": "p",
-                    "x" : 704,
-                    "y" : 7
+                    "label": "њ",
+                    "value": "њ",
+                    "x": 91,
+                    "y": 7
                 },
                 {
                     "hold" : 1,
-                    "label": "a",
-                    "value": "a",
-                    "x" : 59,
-                    "y" : 63
+                    "label": "е",
+                    "value": "е",
+                    "x": 160,
+                    "y": 7
                 },
                 {
-                    "hold" : 7,
-                    "label": "s",
-                    "value": "s",
-                    "x" : 135,
-                    "y" : 63
+                    "label": "р",
+                    "value": "р",
+                    "x": 229,
+                    "y": 7
                 },
                 {
-                    "hold" : 10,
-                    "label": "d",
-                    "value": "d",
-                    "x" : 211,
-                    "y" : 63
+                    "label": "т",
+                    "value": "т",
+                    "x": 298,
+                    "y": 7
                 },
                 {
-                    "label": "f",
-                    "value": "f",
-                    "x" : 287,
-                    "y" : 63
+                    "label": "ѕ",
+                    "value": "ѕ",
+                    "x": 367,
+                    "y": 7
                 },
                 {
-                    "label": "g",
-                    "value": "g",
-                    "x" : 363,
-                    "y" : 63
+                    "label": "у",
+                    "value": "у",
+                    "x": 436,
+                    "y": 7
                 },
                 {
-                    "label": "h",
-                    "value": "h",
-                    "x" : 438,
-                    "y" : 63
+                    "hold" : 2,
+                    "label": "и",
+                    "value": "и",
+                    "x": 505,
+                    "y": 7
                 },
                 {
-                    "label": "j",
-                    "value": "j",
-                    "x" : 514,
-                    "y" : 63
+                    "label": "о",
+                    "value": "о",
+                    "x": 574,
+                    "y": 7
                 },
                 {
-                    "label": "k",
-                    "value": "k",
-                    "x" : 590,
-                    "y" : 63
+                    "label": "п",
+                    "value": "п",
+                    "x": 643,
+                    "y": 7
                 },
                 {
-                    "label": "l",
-                    "value": "l",
-                    "x" : 666,
-                    "y" : 63
+                    "label": "ш",
+                    "value": "ш",
+                    "x": 712,
+                    "y": 7
                 },
                 {
-                    "width" : 113,
+                    "label": "а",
+                    "value": "а",
+                    "x": 22,
+                    "y": 63
+                },
+                {
+                    "label": "с",
+                    "value": "с",
+                    "x": 91,
+                    "y": 63
+                },
+                {
+                    "label": "д",
+                    "value": "д",
+                    "x": 160,
+                    "y": 63
+                },
+                {
+                    "label": "ф",
+                    "value": "ф",
+                    "x": 229,
+                    "y": 63
+                },
+                {
+                    "label": "г",
+                    "value": "г",
+                    "x": 298,
+                    "y": 63
+                },
+                {
+                    "label": "х",
+                    "value": "х",
+                    "x": 367,
+                    "y": 63
+                },
+                {
+                    "label": "ј",
+                    "value": "ј",
+                    "x": 436,
+                    "y": 63
+                },
+                {
+                    "label": "к",
+                    "value": "к",
+                    "x": 505,
+                    "y": 63
+                },
+                {
+                    "label": "л",
+                    "value": "л",
+                    "x": 574,
+                    "y": 63
+                },
+                {
+                    "label": "ч",
+                    "value": "ч",
+                    "x": 643,
+                    "y": 63
+                },
+                {
+                    "label": "ќ",
+                    "value": "ќ",
+                    "x": 712,
+                    "y": 63
+                },
+                {
                     "label": "file:///usr/share/keyboard/images/keyShiftEnabled.png",
                     "press": "file:///usr/share/keyboard/images/keyShiftArmed.png",
                     "value": "!!shift",
                     "x": 22,
-                    "y" : 120
+                    "y": 118
                 },
                 {
-                    "label": "z",
-                    "value": "z",
-                    "x" : 135,
-                    "y" : 120
+                    "label": "з",
+                    "value": "з",
+                    "x": 91,
+                    "y": 118
                 },
                 {
-                    "label": "x",
-                    "value": "x",
-                    "x" : 211,
-                    "y" : 120
+                    "label": "џ",
+                    "value": "џ",
+                    "x": 160,
+                    "y": 118
                 },
                 {
-                    "hold" : 2,
-                    "label": "c",
-                    "value": "c",
-                    "x" : 287,
-                    "y" : 120
+                    "label": "ц",
+                    "value": "ц",
+                    "x": 229,
+                    "y": 118
                 },
                 {
-                    "label": "v",
-                    "value": "v",
-                    "x" : 363,
-                    "y" : 120
+                    "label": "в",
+                    "value": "в",
+                    "x": 298,
+                    "y": 118
                 },
                 {
-                    "label": "b",
-                    "value": "b",
-                    "x" : 438,
-                    "y" : 120
+                    "label": "б",
+                    "value": "б",
+                    "x": 367,
+                    "y": 118
                 },
                 {
-                    "hold" : 5,
-                    "label": "n",
-                    "value": "n",
-                    "x" : 514,
-                    "y" : 120
+                    "label": "н",
+                    "value": "н",
+                    "x": 436,
+                    "y": 118
                 },
                 {
-                    "label": "m",
-                    "value": "m",
-                    "x" : 590,
-                    "y" : 120
+                    "label": "м",
+                    "value": "м",
+                    "x": 505,
+                    "y": 118
                 },
                 {
-                    "width" : 113,
+                    "label": "ѓ",
+                    "value": "ѓ",
+                    "x": 574,
+                    "y": 118
+                },
+                {
+                    "label": "ж",
+                    "value": "ж",
+                    "x": 643,
+                    "y": 118
+                },
+                {
                     "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
                     "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
                     "value": "!!back",
-                    "x" : 666,
-                    "y" : 120
+                    "x": 712,
+                    "y": 118
                 }
             ]
         },
         {
             "comment": "uppercase, three rows for alpha",
             "type": 96,
-            "width" : 76,
+            "width" : 69,
             "height" : 56,
             "font" : "Futura 11",
             "modifier" : 1,
             "keys": [
                 {
-                    "label": "Q",
-                    "value": "Q",
-                    "x" : 22,
-                    "y" : 7
+                    "label": "Љ",
+                    "value": "Љ",
+                    "x": 22,
+                    "y": 7
                 },
                 {
-                    "label": "W",
-                    "value": "W",
-                    "x" : 98,
-                    "y" : 7
+                    "label": "Њ",
+                    "value": "Њ",
+                    "x": 91,
+                    "y": 7
                 },
                 {
-                    "hold" : 103,
-                    "label": "E",
-                    "value": "E",
-                    "x" : 173,
-                    "y" : 7
+                    "hold" : 11,
+                    "label": "Е",
+                    "value": "Е",
+                    "x": 160,
+                    "y": 7
                 },
                 {
-                    "label": "R",
-                    "value": "R",
-                    "x" : 249,
-                    "y" : 7
+                    "label": "Р",
+                    "value": "Р",
+                    "x": 229,
+                    "y": 7
                 },
                 {
-                    "label": "T",
-                    "value": "T",
-                    "x" : 325,
-                    "y" : 7
+                    "label": "Т",
+                    "value": "Т",
+                    "x": 298,
+                    "y": 7
                 },
                 {
-                    "hold" : 109,
-                    "label": "Y",
-                    "value": "Y",
-                    "x" : 401,
-                    "y" : 7
+                    "label": "Ѕ",
+                    "value": "Ѕ",
+                    "x": 367,
+                    "y": 7
                 },
                 {
-                    "hold" : 108,
-                    "label": "U",
-                    "value": "U",
-                    "x" : 477,
-                    "y" : 7
+                    "label": "У",
+                    "value": "У",
+                    "x": 436,
+                    "y": 7
                 },
                 {
-                    "hold" : 104,
-                    "label": "I",
-                    "value": "I",
-                    "x" : 552,
-                    "y" : 7
+                    "hold" : 12,
+                    "label": "И",
+                    "value": "И",
+                    "x": 505,
+                    "y": 7
                 },
                 {
-                    "hold" : 106,
-                    "label": "O",
-                    "value": "O",
-                    "x" : 628,
-                    "y" : 7
+                    "label": "О",
+                    "value": "О",
+                    "x": 574,
+                    "y": 7
                 },
                 {
-                    "label": "P",
-                    "value": "P",
-                    "x" : 704,
-                    "y" : 7
+                    "label": "П",
+                    "value": "П",
+                    "x": 643,
+                    "y": 7
                 },
                 {
-                    "hold" : 101,
-                    "label": "A",
-                    "value": "A",
-                    "x" : 59,
-                    "y" : 63
+                    "label": "Ш",
+                    "value": "Ш",
+                    "x": 712,
+                    "y": 7
                 },
                 {
-                    "hold" : 107,
-                    "label": "S",
-                    "value": "S",
-                    "x" : 135,
-                    "y" : 63
+                    "label": "А",
+                    "value": "А",
+                    "x": 22,
+                    "y": 63
                 },
                 {
-                    "hold" : 110,
-                    "label": "D",
-                    "value": "D",
-                    "x" : 211,
-                    "y" : 63
+                    "label": "С",
+                    "value": "С",
+                    "x": 91,
+                    "y": 63
                 },
                 {
-                    "label": "F",
-                    "value": "F",
-                    "x" : 287,
-                    "y" : 63
+                    "label": "Д",
+                    "value": "Д",
+                    "x": 160,
+                    "y": 63
                 },
                 {
-                    "label": "G",
-                    "value": "G",
-                    "x" : 363,
-                    "y" : 63
+                    "label": "Ф",
+                    "value": "Ф",
+                    "x": 229,
+                    "y": 63
                 },
                 {
-                    "label": "H",
-                    "value": "H",
-                    "x" : 438,
-                    "y" : 63
+                    "label": "Г",
+                    "value": "Г",
+                    "x": 298,
+                    "y": 63
                 },
                 {
-                    "label": "J",
-                    "value": "J",
-                    "x" : 514,
-                    "y" : 63
+                    "label": "Х",
+                    "value": "Х",
+                    "x": 367,
+                    "y": 63
                 },
                 {
-                    "label": "K",
-                    "value": "K",
-                    "x" : 590,
-                    "y" : 63
+                    "label": "Ј",
+                    "value": "Ј",
+                    "x": 436,
+                    "y": 63
                 },
                 {
-                    "label": "L",
-                    "value": "L",
-                    "x" : 666,
-                    "y" : 63
+                    "label": "К",
+                    "value": "К",
+                    "x": 505,
+                    "y": 63
                 },
                 {
-                    "label": "Z",
-                    "value": "Z",
-                    "x" : 135,
-                    "y" : 120
+                    "label": "Л",
+                    "value": "Л",
+                    "x": 574,
+                    "y": 63
                 },
                 {
-                    "label": "X",
-                    "value": "X",
-                    "x" : 211,
-                    "y" : 120
+                    "label": "Ч",
+                    "value": "Ч",
+                    "x": 643,
+                    "y": 63
                 },
                 {
-                    "hold" : 102,
-                    "label": "C",
-                    "value": "C",
-                    "x" : 287,
-                    "y" : 120
+                    "label": "Ќ",
+                    "value": "Ќ",
+                    "x": 712,
+                    "y": 63
                 },
                 {
-                    "label": "V",
-                    "value": "V",
-                    "x" : 363,
-                    "y" : 120
+                    "label": "file:///usr/share/keyboard/images/keyShiftEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyShiftArmed.png",
+                    "value": "!!shift",
+                    "x": 22,
+                    "y": 118
                 },
                 {
-                    "label": "B",
-                    "value": "B",
-                    "x" : 438,
-                    "y" : 120
+                    "label": "З",
+                    "value": "З",
+                    "x": 91,
+                    "y": 118
                 },
                 {
-                    "hold" : 105,
-                    "label": "N",
-                    "value": "N",
-                    "x" : 514,
-                    "y" : 120
+                    "label": "Џ",
+                    "value": "Џ",
+                    "x": 160,
+                    "y": 118
                 },
                 {
-                    "label": "M",
-                    "value": "M",
-                    "x" : 590,
-                    "y" : 120
+                    "label": "Ц",
+                    "value": "Ц",
+                    "x": 229,
+                    "y": 118
                 },
                 {
-                    "width" : 113,
+                    "label": "В",
+                    "value": "В",
+                    "x": 298,
+                    "y": 118
+                },
+                {
+                    "label": "Б",
+                    "value": "Б",
+                    "x": 367,
+                    "y": 118
+                },
+                {
+                    "label": "Н",
+                    "value": "Н",
+                    "x": 436,
+                    "y": 118
+                },
+                {
+                    "label": "М",
+                    "value": "М",
+                    "x": 505,
+                    "y": 118
+                },
+                {
+                    "label": "Ѓ",
+                    "value": "Ѓ",
+                    "x": 574,
+                    "y": 118
+                },
+                {
+                    "label": "Ж",
+                    "value": "Ж",
+                    "x": 643,
+                    "y": 118
+                },
+                {
                     "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
                     "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
                     "value": "!!back",
-                    "x" : 666,
-                    "y" : 120
+                    "x": 712,
+                    "y": 118
                 }
             ]
         },
         {
             "comment": "shift",
             "type": 32,
-            "width": 113,
+            "width": 69,
             "height": 56,
             "font" : "Futura 11",
             "modifier" : 1,
@@ -578,7 +626,7 @@
         {
             "comment": "shift lock",
             "type": 64,
-            "width": 113,
+            "width": 69,
             "height": 56,
             "font" : "Futura 11",
             "modifier" : 1,
@@ -596,7 +644,7 @@
             "comment": "common numeric1, three rows",
             "type": 33554560,
             "width" : 76,
-            "height" : 56,
+            "height": 56,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
@@ -777,7 +825,7 @@
             "comment": "numeric1, three rows",
             "type": 128,
             "width" : 76,
-            "height" : 56,
+            "height": 56,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
@@ -800,7 +848,7 @@
             "comment": "web numeric1, three rows",
             "type": 33554432,
             "width" : 76,
-            "height" : 56,
+            "height": 56,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
@@ -822,7 +870,7 @@
             "comment": "common numeric2, three rows",
             "type": 67109120,
             "width" : 76,
-            "height" : 56,
+            "height": 56,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
@@ -1016,7 +1064,7 @@
         {
             "comment": "web, no language, 123 for alpha",
             "type": 512,
-            "height" : 56,
+            "height": 56,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
@@ -1077,7 +1125,7 @@
         {
             "comment": "web, with language, 123 for alpha",
             "type": 1024,
-            "height" : 56,
+            "height": 56,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
@@ -1146,7 +1194,7 @@
         {
             "comment": "web, no language, abc for numeric",
             "type": 2048,
-            "height" : 56,
+            "height": 56,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
@@ -1207,7 +1255,7 @@
         {
             "comment": "web, with language, abc for numeric",
             "type": 4096,
-            "height" : 56,
+            "height": 56,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
@@ -1274,142 +1322,24 @@
             ]
         },
         {
-            "comment": "diacritical A lowercase",
-            "type": 8192,
-            "diacritical": 1,
-            "height" : 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 0,
-            "keys": [
-                {
-                    "label": "à",
-                    "value": "à",
-                    "x" : 98,
-                    "y": -39
-                },
-                {
-                    "label": "á",
-                    "value": "á",
-                    "x" : 173,
-                    "y": -39
-                },
-                {
-                    "label": "â",
-                    "value": "â",
-                    "x" : 249,
-                    "y": -39
-                },
-                {
-                    "label": "ã",
-                    "value": "ã",
-                    "x" : 325,
-                    "y": -39
-                },
-                {
-                    "label": "ä",
-                    "value": "ä",
-                    "x" : 401,
-                    "y": -39
-                },
-                {
-                    "label": "å",
-                    "value": "å",
-                    "x" : 477,
-                    "y": -39
-                },
-                {
-                    "label": "æ",
-                    "value": "æ",
-                    "x" : 552,
-                    "y": -39
-                },
-                {
-                    "label": "a",
-                    "value": "a",
-                    "x" : 628,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical C lowercase",
-            "type": 8192,
-            "diacritical": 2,
-            "height": 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 0,
-            "keys": [
-                {
-                    "label": "ç",
-                    "value": "ç",
-                    "x": 211,
-                    "y": -39
-                },
-                {
-                    "label": "ć",
-                    "value": "ć",
-                    "x": 287,
-                    "y": -39
-                },
-                {
-                    "label": "ĉ",
-                    "value": "ĉ",
-                    "x": 363,
-                    "y": -39
-                },
-                {
-                    "label": "č",
-                    "value": "č",
-                    "x": 438,
-                    "y": -39
-                },
-                {
-                    "label": "c",
-                    "value": "c",
-                    "x": 514,
-                    "y": -39
-                }
-            ]
-        },
-        {
             "comment": "diacritical E lowercase",
             "type": 8192,
-            "diacritical": 3,
-            "height" : 56,
-            "width" : 76,
+            "diacritical": 1,
+            "height": 56,
+            "width" : 69,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
                 {
-                    "label": "è",
-                    "value": "è",
-                    "x" : 211,
+                    "label": "ѐ",
+                    "value": "ѐ",
+                    "x": 125,
                     "y": -39
                 },
                 {
-                    "label": "é",
-                    "value": "é",
-                    "x" : 287,
-                    "y": -39
-                },
-                {
-                    "label": "ê",
-                    "value": "ê",
-                    "x" : 363,
-                    "y": -39
-                },
-                {
-                    "label": "ë",
-                    "value": "ë",
-                    "x" : 438,
-                    "y": -39
-                },
-                {
-                    "label": "e",
-                    "value": "e",
-                    "x" : 514,
+                    "label": "е",
+                    "value": "е",
+                    "x": 194,
                     "y": -39
                 }
             ]
@@ -1417,386 +1347,22 @@
         {
             "comment": "diacritical I lowercase",
             "type": 8192,
-            "diacritical": 4,
-            "height" : 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 0,
-            "keys": [
-                {
-                    "label": "ì",
-                    "value": "ì",
-                    "x" : 173,
-                    "y": -39
-                },
-                {
-                    "label": "í",
-                    "value": "í",
-                    "x" : 249,
-                    "y": -39
-                },
-                {
-                    "label": "î",
-                    "value": "î",
-                    "x" : 325,
-                    "y": -39
-                },
-                {
-                    "label": "ï",
-                    "value": "ï",
-                    "x" : 401,
-                    "y": -39
-                },
-                {
-                    "label": "ĳ",
-                    "value": "ĳ",
-                    "x" : 477,
-                    "y": -39
-                },
-                {
-                    "label": "i",
-                    "value": "i",
-                    "x" : 552,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical N lowercase",
-            "type": 8192,
-            "diacritical": 5,
+            "diacritical": 2,
             "height": 56,
-            "width" : 76,
+            "width" : 69,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
                 {
-                    "label": "ǹ",
-                    "value": "ǹ",
-                    "x": 249,
+                    "label": "и",
+                    "value": "и",
+                    "x": 470,
                     "y": -39
                 },
                 {
-                    "label": "ñ",
-                    "value": "ñ",
-                    "x": 325,
-                    "y": -39
-                },
-                {
-                    "label": "ň",
-                    "value": "ň",
-                    "x": 401,
-                    "y": -39
-                },
-                {
-                    "label": "n",
-                    "value": "n",
-                    "x": 477,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical O lowercase",
-            "type": 8192,
-            "diacritical": 6,
-            "height" : 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 0,
-            "keys": [
-                {
-                    "label": "ò",
-                    "value": "ò",
-                    "x" : 98,
-                    "y": -39
-                },
-                {
-                    "label": "ó",
-                    "value": "ó",
-                    "x" : 173,
-                    "y": -39
-                },
-                {
-                    "label": "ô",
-                    "value": "ô",
-                    "x" : 249,
-                    "y": -39
-                },
-                {
-                    "label": "õ",
-                    "value": "õ",
-                    "x" : 325,
-                    "y": -39
-                },
-                {
-                    "label": "ö",
-                    "value": "ö",
-                    "x" : 401,
-                    "y": -39
-                },
-                {
-                    "label": "œ",
-                    "value": "œ",
-                    "x" : 477,
-                    "y": -39
-                },
-                {
-                    "label": "ø",
-                    "value": "ø",
-                    "x" : 552,
-                    "y": -39
-                },
-                {
-                    "label": "o",
-                    "value": "o",
-                    "x" : 628,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical S lowercase",
-            "type": 8192,
-            "diacritical": 7,
-            "height": 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 0,
-            "keys": [
-                {
-                    "label": "ś",
-                    "value": "ś",
-                    "x": 211,
-                    "y": -39
-                },
-                {
-                    "label": "š",
-                    "value": "š",
-                    "x": 287,
-                    "y": -39
-                },
-                {
-                    "label": "ş",
-                    "value": "ş",
-                    "x": 363,
-                    "y": -39
-                },
-                {
-                    "label": "ß",
-                    "value": "ß",
-                    "x": 438,
-                    "y": -39
-                },
-                {
-                    "label": "s",
-                    "value": "s",
-                    "x": 514,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical U lowercase",
-            "type": 8192,
-            "diacritical": 8,
-            "height" : 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 0,
-            "keys": [
-                {
-                    "label": "ù",
-                    "value": "ù",
-                    "x" : 211,
-                    "y": -39
-                },
-                {
-                    "label": "ú",
-                    "value": "ú",
-                    "x" : 287,
-                    "y": -39
-                },
-                {
-                    "label": "û",
-                    "value": "û",
-                    "x" : 363,
-                    "y": -39
-                },
-                {
-                    "label": "ü",
-                    "value": "ü",
-                    "x" : 438,
-                    "y": -39
-                },
-                {
-                    "label": "u",
-                    "value": "u",
-                    "x" : 514,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical Y lowercase",
-            "type": 8192,
-            "diacritical": 9,
-            "height": 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 0,
-            "keys": [
-                {
-                    "label": "ý",
-                    "value": "ý",
-                    "x": 249,
-                    "y": -39
-                },
-                {
-                    "label": "ỳ",
-                    "value": "ỳ",
-                    "x": 325,
-                    "y": -39
-                },
-                {
-                    "label": "ÿ",
-                    "value": "ÿ",
-                    "x": 401,
-                    "y": -39
-                },
-                {
-                    "label": "y",
-                    "value": "y",
-                    "x": 477,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical D lowercase",
-            "type": 8192,
-            "diacritical": 10,
-            "height": 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 0,
-            "keys": [
-                {
-                    "label": "ð",
-                    "value": "ð",
-                    "x": 287,
-                    "y": -39
-                },
-                {
-                    "label": "þ",
-                    "value": "þ",
-                    "x": 363,
-                    "y": -39
-                },
-                {
-                    "label": "d",
-                    "value": "d",
-                    "x": 438,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical A uppercase",
-            "type": 8192,
-            "diacritical": 101,
-            "height": 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 1,
-            "keys": [
-                {
-                    "label": "À",
-                    "value": "à",
-                    "x": 98,
-                    "y": -39
-                },
-                {
-                    "label": "Á",
-                    "value": "á",
-                    "x": 173,
-                    "y": -39
-                },
-                {
-                    "label": "Â",
-                    "value": "â",
-                    "x": 249,
-                    "y": -39
-                },
-                {
-                    "label": "Ã",
-                    "value": "ã",
-                    "x": 325,
-                    "y": -39
-                },
-                {
-                    "label": "Ä",
-                    "value": "ä",
-                    "x": 401,
-                    "y": -39
-                },
-                {
-                    "label": "Å",
-                    "value": "å",
-                    "x": 477,
-                    "y": -39
-                },
-                {
-                    "label": "Æ",
-                    "value": "æ",
-                    "x": 552,
-                    "y": -39
-                },
-                {
-                    "label": "A",
-                    "value": "a",
-                    "x": 628,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical C uppercase",
-            "type": 8192,
-            "diacritical": 102,
-            "height": 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 1,
-            "keys": [
-                {
-                    "label": "Ç",
-                    "value": "ç",
-                    "x": 211,
-                    "y": -39
-                },
-                {
-                    "label": "Ć",
-                    "value": "Ć",
-                    "x": 287,
-                    "y": -39
-                },
-                {
-                    "label": "Ĉ",
-                    "value": "Ĉ",
-                    "x": 363,
-                    "y": -39
-                },
-                {
-                    "label": "Č",
-                    "value": "Č",
-                    "x": 438,
-                    "y": -39
-                },
-                {
-                    "label": "C",
-                    "value": "c",
-                    "x": 514,
+                    "label": "ѝ",
+                    "value": "ѝ",
+                    "x": 539,
                     "y": -39
                 }
             ]
@@ -1804,40 +1370,22 @@
         {
             "comment": "diacritical E uppercase",
             "type": 8192,
-            "diacritical": 103,
+            "diacritical": 11,
             "height": 56,
-            "width" : 76,
+            "width" : 69,
             "font" : "Futura 11",
             "modifier" : 1,
             "keys": [
                 {
-                    "label": "È",
-                    "value": "è",
-                    "x": 211,
+                    "label": "Ѐ",
+                    "value": "Ѐ",
+                    "x": 125,
                     "y": -39
                 },
                 {
-                    "label": "É",
-                    "value": "é",
-                    "x": 287,
-                    "y": -39
-                },
-                {
-                    "label": "Ê",
-                    "value": "ê",
-                    "x": 363,
-                    "y": -39
-                },
-                {
-                    "label": "Ë",
-                    "value": "ë",
-                    "x": 438,
-                    "y": -39
-                },
-                {
-                    "label": "E",
-                    "value": "e",
-                    "x": 514,
+                    "label": "Е",
+                    "value": "Е",
+                    "x": 194,
                     "y": -39
                 }
             ]
@@ -1845,281 +1393,22 @@
         {
             "comment": "diacritical I uppercase",
             "type": 8192,
-            "diacritical": 104,
+            "diacritical": 12,
             "height": 56,
-            "width" : 76,
+            "width" : 69,
             "font" : "Futura 11",
             "modifier" : 1,
             "keys": [
                 {
-                    "label": "Ì",
-                    "value": "ì",
-                    "x": 173,
+                    "label": "И",
+                    "value": "И",
+                    "x": 470,
                     "y": -39
                 },
                 {
-                    "label": "Í",
-                    "value": "í",
-                    "x": 249,
-                    "y": -39
-                },
-                {
-                    "label": "Î",
-                    "value": "î",
-                    "x": 325,
-                    "y": -39
-                },
-                {
-                    "label": "Ï",
-                    "value": "ï",
-                    "x": 401,
-                    "y": -39
-                },
-                {
-                    "label": "Ĳ",
-                    "value": "Ĳ",
-                    "x": 477,
-                    "y": -39
-                },
-                {
-                    "label": "I",
-                    "value": "i",
-                    "x": 552,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical N uppercase",
-            "type": 8192,
-            "diacritical": 105,
-            "height": 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 1,
-            "keys": [
-                {
-                    "modifier": 3,
-                    "label": "Ǹ",
-                    "value": "Ǹ",
-                    "x": 249,
-                    "y": -39
-                },
-                {
-                    "label": "Ñ",
-                    "value": "ñ",
-                    "x": 325,
-                    "y": -39
-                },
-                {
-                    "label": "Ň",
-                    "value": "Ň",
-                    "x": 401,
-                    "y": -39
-                },
-                {
-                    "label": "N",
-                    "value": "n",
-                    "x": 477,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical O uppercase",
-            "type": 8192,
-            "diacritical": 106,
-            "height": 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 1,
-            "keys": [
-                {
-                    "label": "Ò",
-                    "value": "ò",
-                    "x": 98,
-                    "y": -39
-                },
-                {
-                    "label": "Ó",
-                    "value": "ó",
-                    "x": 173,
-                    "y": -39
-                },
-                {
-                    "label": "Ô",
-                    "value": "ô",
-                    "x": 249,
-                    "y": -39
-                },
-                {
-                    "label": "Õ",
-                    "value": "õ",
-                    "x": 325,
-                    "y": -39
-                },
-                {
-                    "label": "Ö",
-                    "value": "ö",
-                    "x": 401,
-                    "y": -39
-                },
-                {
-                    "label": "Œ",
-                    "value": "Œ",
-                    "x": 477,
-                    "y": -39
-                },
-                {
-                    "label": "Ø",
-                    "value": "ø",
-                    "x": 552,
-                    "y": -39
-                },
-                {
-                    "label": "O",
-                    "value": "o",
-                    "x": 628,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical S uppercase",
-            "type": 8192,
-            "diacritical": 107,
-            "height": 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 1,
-            "keys": [
-                {
-                    "label": "Ś",
-                    "value": "Ś",
-                    "x": 249,
-                    "y": -39
-                },
-                {
-                    "label": "Š",
-                    "value": "Š",
-                    "x": 325,
-                    "y": -39
-                },
-                {
-                    "label": "Ş",
-                    "value": "Ş",
-                    "x": 401,
-                    "y": -39
-                },
-                {
-                    "label": "S",
-                    "value": "s",
-                    "x": 477,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical U uppercase",
-            "type": 8192,
-            "diacritical": 108,
-            "height": 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 1,
-            "keys": [
-                {
-                    "label": "Ù",
-                    "value": "ù",
-                    "x": 211,
-                    "y": -39
-                },
-                {
-                    "label": "Ú",
-                    "value": "ú",
-                    "x": 287,
-                    "y": -39
-                },
-                {
-                    "label": "Û",
-                    "value": "û",
-                    "x": 363,
-                    "y": -39
-                },
-                {
-                    "label": "Ü",
-                    "value": "ü",
-                    "x": 438,
-                    "y": -39
-                },
-                {
-                    "label": "U",
-                    "value": "u",
-                    "x": 514,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical Y uppercase",
-            "type": 8192,
-            "diacritical": 109,
-            "height": 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 1,
-            "keys": [
-                {
-                    "label": "Ý",
-                    "value": "Ý",
-                    "x": 249,
-                    "y": -39
-                },
-                {
-                    "label": "Ỳ",
-                    "value": "Ỳ",
-                    "x": 325,
-                    "y": -39
-                },
-                {
-                    "label": "Ÿ",
-                    "value": "Ÿ",
-                    "x": 401,
-                    "y": -39
-                },
-                {
-                    "label": "Y",
-                    "value": "y",
-                    "x": 477,
-                    "y": -39
-                }
-            ]
-        },
-        {
-            "comment": "diacritical D uppercase",
-            "type": 8192,
-            "diacritical": 110,
-            "height": 56,
-            "width" : 76,
-            "font" : "Futura 11",
-            "modifier" : 1,
-            "keys": [
-                {
-                    "label": "Ð",
-                    "value": "ð",
-                    "x": 287,
-                    "y": -39
-                },
-                {
-                    "label": "Þ",
-                    "value": "þ",
-                    "x": 363,
-                    "y": -39
-                },
-                {
-                    "label": "D",
-                    "value": "d",
-                    "x": 438,
+                    "label": "Ѝ",
+                    "value": "Ѝ",
+                    "x": 539,
                     "y": -39
                 }
             ]
