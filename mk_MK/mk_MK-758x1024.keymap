@@ -185,7 +185,7 @@
         {
             "comment": "lowercase, three rows for alpha",
             "type": 16,
-            "width": 60,
+            "width": 65,
             "height": 71,
             "font" : "Futura 11",
             "modifier" : 0,
@@ -199,115 +199,132 @@
                 {
                     "label": "њ",
                     "value": "њ",
-                    "x": 95,
+                    "x": 89,
                     "y": 9
                 },
                 {
                     "hold" : 1,
                     "label": "е",
                     "value": "е",
-                    "x": 166,
+                    "x": 154,
                     "y": 9
                 },
                 {
                     "label": "р",
                     "value": "р",
-                    "x": 237,
+                    "x": 219,
                     "y": 9
                 },
                 {
                     "label": "т",
                     "value": "т",
-                    "x": 308,
+                    "x": 284,
                     "y": 9
                 },
                 {
                     "label": "ѕ",
                     "value": "ѕ",
-                    "x": 379,
+                    "x": 349,
                     "y": 9
                 },
                 {
                     "label": "у",
                     "value": "у",
-                    "x": 450,
+                    "x": 414,
                     "y": 9
                 },
                 {
                     "hold" : 2,
                     "label": "и",
                     "value": "и",
-                    "x": 521,
+                    "x": 479,
                     "y": 9
                 },
                 {
                     "label": "о",
                     "value": "о",
-                    "x": 592,
+                    "x": 544,
                     "y": 9
                 },
                 {
                     "label": "п",
                     "value": "п",
-                    "x": 663,
+                    "x": 609,
+                    "y": 9
+                },
+                {
+                    "label": "ш",
+                    "value": "ш",
+                    "x": 674,
                     "y": 9
                 },
                 {
                     "label": "а",
                     "value": "а",
-                    "x": 59,
+                    "x": 24,
                     "y": 80
                 },
                 {
                     "label": "с",
                     "value": "с",
-                    "x": 130,
+                    "x": 89,
                     "y": 80
                 },
                 {
                     "label": "д",
                     "value": "д",
-                    "x": 201,
+                    "x": 154,
                     "y": 80
                 },
                 {
                     "label": "ф",
                     "value": "ф",
-                    "x": 272,
+                    "x": 219,
                     "y": 80
                 },
                 {
                     "label": "г",
                     "value": "г",
-                    "x": 343,
+                    "x": 284,
                     "y": 80
                 },
                 {
                     "label": "х",
                     "value": "х",
-                    "x": 414,
+                    "x": 349,
                     "y": 80
                 },
                 {
                     "label": "ј",
                     "value": "ј",
-                    "x": 485,
+                    "x": 414,
                     "y": 80
                 },
                 {
                     "label": "к",
                     "value": "к",
-                    "x": 556,
+                    "x": 479,
                     "y": 80
                 },
                 {
                     "label": "л",
                     "value": "л",
-                    "x": 627,
+                    "x": 544,
                     "y": 80
                 },
                 {
-                    "width": 106,
+                    "label": "ч",
+                    "value": "ч",
+                    "x": 609,
+                    "y": 80
+                },
+                {
+                    "label": "ќ",
+                    "value": "ќ",
+                    "x": 674,
+                    "y": 80
+                },
+                {
                     "label": "file:///usr/share/keyboard/images/keyShiftEnabled.png",
                     "press": "file:///usr/share/keyboard/images/keyShiftArmed.png",
                     "value": "!!shift",
@@ -317,51 +334,62 @@
                 {
                     "label": "з",
                     "value": "з",
-                    "x": 130,
+                    "x": 89,
                     "y": 151
                 },
                 {
                     "label": "џ",
                     "value": "џ",
-                    "x": 201,
+                    "x": 154,
                     "y": 151
                 },
                 {
                     "label": "ц",
                     "value": "ц",
-                    "x": 272,
+                    "x": 219,
                     "y": 151
                 },
                 {
                     "label": "в",
                     "value": "в",
-                    "x": 343,
+                    "x": 284,
                     "y": 151
                 },
                 {
                     "label": "б",
                     "value": "б",
-                    "x": 414,
+                    "x": 349,
                     "y": 151
                 },
                 {
                     "label": "н",
                     "value": "н",
-                    "x": 485,
+                    "x": 414,
                     "y": 151
                 },
                 {
                     "label": "м",
                     "value": "м",
-                    "x": 556,
+                    "x": 479,
                     "y": 151
                 },
                 {
-                    "width": 107,
+                    "label": "ѓ",
+                    "value": "ѓ",
+                    "x": 544,
+                    "y": 151
+                },
+                {
+                    "label": "ж",
+                    "value": "ж",
+                    "x": 609,
+                    "y": 151
+                },
+                {
                     "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
                     "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
                     "value": "!!back",
-                    "x": 627,
+                    "x": 674,
                     "y": 151
                 }
             ]
@@ -369,7 +397,7 @@
         {
             "comment": "uppercase, three rows for alpha",
             "type": 96,
-            "width": 71,
+            "width": 65,
             "height": 71,
             "font" : "Futura 11",
             "modifier" : 1,
@@ -383,161 +411,197 @@
                 {
                     "label": "Њ",
                     "value": "Њ",
-                    "x": 95,
+                    "x": 89,
                     "y": 9
                 },
                 {
-                    "hold" : 3,
+                    "hold" : 11,
                     "label": "Е",
                     "value": "Е",
-                    "x": 166,
+                    "x": 154,
                     "y": 9
                 },
                 {
                     "label": "Р",
                     "value": "Р",
-                    "x": 237,
+                    "x": 219,
                     "y": 9
                 },
                 {
                     "label": "Т",
                     "value": "Т",
-                    "x": 308,
+                    "x": 284,
                     "y": 9
                 },
                 {
                     "label": "Ѕ",
                     "value": "Ѕ",
-                    "x": 379,
+                    "x": 349,
                     "y": 9
                 },
                 {
                     "label": "У",
                     "value": "У",
-                    "x": 450,
+                    "x": 414,
                     "y": 9
                 },
                 {
-                    "hold" : 4,
+                    "hold" : 12,
                     "label": "И",
                     "value": "И",
-                    "x": 521,
+                    "x": 479,
                     "y": 9
                 },
                 {
                     "label": "О",
                     "value": "О",
-                    "x": 592,
+                    "x": 544,
                     "y": 9
                 },
                 {
                     "label": "П",
                     "value": "П",
-                    "x": 663,
+                    "x": 609,
+                    "y": 9
+                },
+                {
+                    "label": "Ш",
+                    "value": "Ш",
+                    "x": 674,
                     "y": 9
                 },
                 {
                     "label": "А",
                     "value": "А",
-                    "x": 59,
+                    "x": 24,
                     "y": 80
                 },
                 {
                     "label": "С",
                     "value": "С",
-                    "x": 130,
+                    "x": 89,
                     "y": 80
                 },
                 {
                     "label": "Д",
                     "value": "Д",
-                    "x": 201,
+                    "x": 154,
                     "y": 80
                 },
                 {
                     "label": "Ф",
                     "value": "Ф",
-                    "x": 272,
+                    "x": 219,
                     "y": 80
                 },
                 {
                     "label": "Г",
                     "value": "Г",
-                    "x": 343,
+                    "x": 284,
                     "y": 80
                 },
                 {
                     "label": "Х",
                     "value": "Х",
-                    "x": 414,
+                    "x": 349,
                     "y": 80
                 },
                 {
                     "label": "Ј",
                     "value": "Ј",
-                    "x": 485,
+                    "x": 414,
                     "y": 80
                 },
                 {
                     "label": "К",
                     "value": "К",
-                    "x": 556,
+                    "x": 479,
                     "y": 80
                 },
                 {
                     "label": "Л",
                     "value": "Л",
-                    "x": 627,
+                    "x": 544,
                     "y": 80
+                },
+                {
+                    "label": "Ч",
+                    "value": "Ч",
+                    "x": 609,
+                    "y": 80
+                },
+                {
+                    "label": "Ќ",
+                    "value": "Ќ",
+                    "x": 674,
+                    "y": 80
+                },
+                {
+                    "label": "file:///usr/share/keyboard/images/keyShiftEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyShiftArmed.png",
+                    "value": "!!shift",
+                    "x": 24,
+                    "y": 151
                 },
                 {
                     "label": "З",
                     "value": "З",
-                    "x": 130,
+                    "x": 89,
                     "y": 151
                 },
                 {
                     "label": "Џ",
                     "value": "Џ",
-                    "x": 201,
+                    "x": 154,
                     "y": 151
                 },
                 {
                     "label": "Ц",
                     "value": "Ц",
-                    "x": 272,
+                    "x": 219,
                     "y": 151
                 },
                 {
                     "label": "В",
                     "value": "В",
-                    "x": 343,
+                    "x": 284,
                     "y": 151
                 },
                 {
                     "label": "Б",
                     "value": "Б",
-                    "x": 414,
+                    "x": 349,
                     "y": 151
                 },
                 {
                     "label": "Н",
                     "value": "Н",
-                    "x": 485,
+                    "x": 414,
                     "y": 151
                 },
                 {
                     "label": "М",
                     "value": "М",
-                    "x": 556,
+                    "x": 479,
                     "y": 151
                 },
                 {
-                    "width": 107,
+                    "label": "Ѓ",
+                    "value": "Ѓ",
+                    "x": 544,
+                    "y": 151
+                },
+                {
+                    "label": "Ж",
+                    "value": "Ж",
+                    "x": 609,
+                    "y": 151
+                },
+                {
                     "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
                     "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
                     "value": "!!back",
-                    "x": 627,
+                    "x": 674,
                     "y": 151
                 }
             ]
@@ -545,7 +609,7 @@
         {
             "comment": "shift",
             "type": 32,
-            "width": 106,
+            "width": 65,
             "height": 71,
             "font" : "Futura 11",
             "modifier" : 1,
@@ -562,7 +626,7 @@
         {
             "comment": "shift lock",
             "type": 64,
-            "width": 106,
+            "width": 65,
             "height": 71,
             "font" : "Futura 11",
             "modifier" : 1,
@@ -1263,20 +1327,20 @@
             "type": 8192,
             "diacritical": 1,
             "height": 71,
-            "width" : 71,
+            "width" : 65,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
                 {
                     "label": "ѐ",
                     "value": "ѐ",
-                    "x": 379,
+                    "x": 121,
                     "y": -50
                 },
                 {
                     "label": "е",
                     "value": "е",
-                    "x": 450,
+                    "x": 186,
                     "y": -50
                 }
             ]
@@ -1286,20 +1350,20 @@
             "type": 8192,
             "diacritical": 2,
             "height": 71,
-            "width" : 71,
+            "width" : 65,
             "font" : "Futura 11",
             "modifier" : 0,
             "keys": [
                 {
-                    "label": "Ѝ",
-                    "value": "ѝ",
-                    "x": 379,
+                    "label": "и",
+                    "value": "и",
+                    "x": 446,
                     "y": -50
                 },
                 {
-                    "label": "И",
-                    "value": "и",
-                    "x": 450,
+                    "label": "ѝ",
+                    "value": "ѝ",
+                    "x": 511,
                     "y": -50
                 }
             ]
@@ -1307,22 +1371,22 @@
         {
             "comment": "diacritical E uppercase",
             "type": 8192,
-            "diacritical": 3,
+            "diacritical": 11,
             "height": 71,
-            "width" : 71,
+            "width" : 65,
             "font" : "Futura 11",
             "modifier" : 1,
             "keys": [
                 {
                     "label": "Ѐ",
-                    "value": "ѐ",
-                    "x": 379,
+                    "value": "Ѐ",
+                    "x": 121,
                     "y": -50
                 },
                 {
                     "label": "Е",
-                    "value": "е",
-                    "x": 450,
+                    "value": "Е",
+                    "x": 186,
                     "y": -50
                 }
             ]
@@ -1330,22 +1394,22 @@
         {
             "comment": "diacritical I uppercase",
             "type": 8192,
-            "diacritical": 4,
+            "diacritical": 12,
             "height": 71,
             "width" : 71,
             "font" : "Futura 11",
             "modifier" : 1,
             "keys": [
                 {
-                    "label": "Ѝ",
-                    "value": "ѝ",
-                    "x": 379,
+                    "label": "И",
+                    "value": "И",
+                    "x": 446,
                     "y": -50
                 },
                 {
-                    "label": "И",
-                    "value": "и",
-                    "x": 450,
+                    "label": "Ѝ",
+                    "value": "Ѝ",
+                    "x": 511,
                     "y": -50
                 }
             ]
