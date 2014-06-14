@@ -12,6 +12,10 @@ the mount is readonly), add the mk_MK folder, and create a new image with `mkcra
 `mntroot rw` copy the new image in `/usr/share/keyboard.cramfs.img` (using scp), and remount the Kindle `mntroot ro`. At
 this point I just reboot it, probably I could just restart the keyboard service.
 
+PS. `utils.so` is of dubious source, I might need to remove it from the repo.
+It's a copy of the english one with strings replaced with a binary editor: `en_US` to `mk_MK` and `English_US` to `Macedonian`.
+Luckily Macedonian is the same length as English_US.
+
 
 TODO
 ====
