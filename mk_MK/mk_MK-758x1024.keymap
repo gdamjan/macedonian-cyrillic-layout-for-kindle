@@ -1396,7 +1396,7 @@
             "type": 8192,
             "diacritical": 12,
             "height": 71,
-            "width" : 71,
+            "width" : 65,
             "font" : "Futura 11",
             "modifier" : 1,
             "keys": [
