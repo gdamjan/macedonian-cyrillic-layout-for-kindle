@@ -17,6 +17,19 @@ It's a copy of the english one with strings replaced with a binary editor: `en_U
 Luckily Macedonian is the same length as English_US.
 
 
+Change the file in runtime
+==========================
+
+If you don't want to restart the kindle:
+
+    stop kb
+    umount /usr/share/keyboard
+    mntroot rw
+    # now copy the new image
+    mount /usr/share/keyboard.cramfs.img /usr/share/keyboard -o loop
+    start kb
+
+
 TODO
 ====
 
