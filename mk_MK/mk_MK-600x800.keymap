@@ -397,7 +397,7 @@
         {
             "comment": "uppercase, three rows for alpha",
             "type": 96,
-            "width": 56,
+            "width": 52,
             "height": 55,
             "font" : "Futura 11",
             "modifier" : 1,
@@ -618,7 +618,7 @@
                     "label": "file:///usr/share/keyboard/images/keyShiftLockEnabled.png",
                     "press": "file:///usr/share/keyboard/images/keyShiftLockArmed.png",
                     "value": "!!shift",
-                    "x": 19,
+                    "x": 14,
                     "y": 118
                 }
             ]
@@ -635,7 +635,7 @@
                     "label": "file:///usr/share/keyboard/images/keyShiftLockedEnabled.png",
                     "press": "file:///usr/share/keyboard/images/keyShiftLockedArmed.png",
                     "value": "!!lower",
-                    "x": 19,
+                    "x": 14,
                     "y": 118
                 }
             ]
