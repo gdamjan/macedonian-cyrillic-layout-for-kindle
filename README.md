@@ -1,7 +1,7 @@
 Macedonian cyrillic keyboard layout for Kindle
 ==============================================
 
-This has been only tested on the Kindle PaperWhite (2nd gen). On other devices YMMV.
+This has been only tested on the Kindle PaperWhite (2nd gen) and Kindle Touch.
 
 You will need a rooted Kindle, and maybe ssh access.
 
@@ -12,7 +12,7 @@ the mount is readonly), add the mk_MK folder, gzip the keymap files and create a
 `mntroot rw` copy the new image in `/usr/share/keyboard.cramfs.img` (using scp), and remount the Kindle `mntroot ro`. At
 this point I just reboot it, probably I could just restart the keyboard service.
 
-PS. the `utils.so` binary file is of dubious legality here, I might need to remove it from the repo.
+PS. the `utils.so` binary file is of dubious legality here, I might need to remove it from the repo (removed it).
 But it's just a copy of the english one with strings replaced with a binary editor: `en_US` to `mk_MK` and `English_US` to `Macedonian`.
 Luckily Macedonian is the same length as English_US.
 
@@ -26,6 +26,7 @@ If you don't want to restart the kindle:
     umount /usr/share/keyboard
     mntroot rw
     # now copy the new image
+    mntroot ro
     mount /usr/share/keyboard.cramfs.img /usr/share/keyboard -o loop
     start kb
 
