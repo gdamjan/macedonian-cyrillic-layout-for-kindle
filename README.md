@@ -35,4 +35,3 @@ TODO
 ====
 
 * make installer
-* test on Kindle Touch
