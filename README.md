@@ -34,8 +34,8 @@ If you don't want to restart the kindle:
 Screenshots
 ===========
 
-![select the keyboard in settings](https://raw.github.com/gdamjan/macedonian-cyrillic-layout-for-kindle/master/select-keyboard.png)
-![use the keyboard](https://raw.github.com/gdamjan/macedonian-cyrillic-layout-for-kindle/master/keyboard.png)
+![select the keyboard in settings](https://raw.github.com/gdamjan/macedonian-cyrillic-layout-for-kindle/master/screenshots/select-keyboard.png)
+![use the keyboard](https://raw.github.com/gdamjan/macedonian-cyrillic-layout-for-kindle/master/screenshots/keyboard.png)
 
 
 TODO
