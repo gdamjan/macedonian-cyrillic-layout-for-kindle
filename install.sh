@@ -21,14 +21,9 @@ mkcramfs "$WORKDIR" "$DESTIMG"
 # remove the work dir
 rm -rf "$WORKDIR"
 
-# the image is ready, so mount it and restart kb, so it works immediately
-stop kb
-umount "$SRCDIR"
-mount -o loop "$DESTIMG" "$SRCDIR"
-start kb
-
-
 # Setup an upstart config file to mount the updated image on boot
 mntroot rw
 cp upstart_mk_MK.conf /etc/upstart/keyboard_mk_MK.conf
 mntroot ro
+
+start keyboard_mk_MK
