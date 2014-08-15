@@ -28,5 +28,7 @@ mount -o loop "$DESTIMG" "$SRCDIR"
 start kb
 
 
-# TODO: need to setup something so the updated image is mounted on boot
-
+# Setup an upstart config file to mount the updated image on boot
+mntroot rw
+cp upstart_mk_MK.conf /etc/upstart/keyboard_mk_MK.conf
+mntroot ro

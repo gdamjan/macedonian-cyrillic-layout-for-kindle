@@ -43,5 +43,5 @@ Make an installer
 
 Install (KindleTool)[https://github.com/NiLuJe/KindleTool], and run:
 
-    kindletool create ota2 -d kindle5 install.sh mk_MK Update_keyboard_mk_MK.bin
+    kindletool create ota2 -d kindle5 install.sh upstart_mk_MK.conf mk_MK Update_keyboard_mk_MK.bin
 
