@@ -3,7 +3,7 @@ Macedonian cyrillic keyboard layout for Kindle
 
 This has been only tested on the Kindle PaperWhite (2nd gen) and Kindle Touch.
 
-You will need a rooted Kindle, and maybe ssh access.
+You will need a [rooted Kindle](http://wiki.mobileread.com/wiki/Kindle_Touch_Hacking#Jailbreak), and maybe ssh access.
 
 Keyboard layouts are in a cramfs image in `/usr/share/keyboard.cramfs.img`, which is mounted at `/usr/share/keyboard`.
 Cramfs is a readonly filesystem, so to modify it, you need to copy everything out of it, and then recreate it.
@@ -14,7 +14,7 @@ this point I just reboot it, probably I could just restart the keyboard service.
 
 PS. the `utils.so` binary file is of dubious legality here, I might need to remove it from the repo (removed it).
 But it's just a copy of the english one with strings replaced with a binary editor: `en_US` to `mk_MK` and `English_US` to `Macedonian`.
-Luckily Macedonian is the same length as English_US.
+Luckily the words `Macedonian` and `English_US` are the exact same length.
 
 
 Change the file in runtime
